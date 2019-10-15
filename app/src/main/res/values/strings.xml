@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FallTrackerApp</string>
+    <string name="recorded_drop">Drop recorder at:</string>
+</resources>
